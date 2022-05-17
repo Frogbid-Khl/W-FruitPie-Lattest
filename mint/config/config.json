@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb165e62Af1943288FEE04f5b96E7f87ca7274aCa",
+  "SCAN_LINK": "",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "FruitPie",
+  "SYMBOL": "FruitPie",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 70000000000000000,
+  "DISPLAY_COST": 0.07,
+  "GAS_LIMIT": 250000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": false
+}
