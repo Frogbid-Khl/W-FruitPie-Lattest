@@ -214,7 +214,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #6d390a;
+    color: #ffffff;
     text-decoration: inherit;
 }
 
@@ -297,7 +297,7 @@ img, video {
 
 @media (min-width: 1536px) {
     .container {
-        max-width: 1536px
+        max-width: 1579px;
     }
 }
 
@@ -967,7 +967,8 @@ img, video {
 }
 
 .rotate-45, .translate-y-1\/2 {
-    transform: var(--tw-transform)
+    transform: var(--tw-transform);
+    border: 2px solid black;
 }
 
 .rotate-45 {
@@ -1634,7 +1635,7 @@ img, video {
 
 .text-teal {
     --tw-text-opacity: 1;
-    color: rgba(61, 209, 209, var(--tw-text-opacity))
+    color: #ec7613;
 }
 
 .text-gray {
@@ -2175,7 +2176,8 @@ input.center {
     }
 
     .md\:w-3\/4 {
-        width: 75%
+        width: 100%;
+        text-align: justify;
     }
 
     .md\:w-5\/12 {
@@ -2360,7 +2362,8 @@ input.center {
 
     .md\:px-0 {
         padding-left: 0;
-        padding-right: 0
+        padding-right: 0;
+
     }
 
     .md\:py-28 {

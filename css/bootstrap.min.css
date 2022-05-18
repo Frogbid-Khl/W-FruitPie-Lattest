@@ -3940,7 +3940,7 @@ tbody.collapse.show {
     display: inline-block;
     padding-top: .5rem;
     padding-bottom: .5rem;
-    margin-right: 127px;
+    margin-right: 171px;
 }
 
 .navbar-collapse {
@@ -4155,7 +4155,7 @@ tbody.collapse.show {
         display: flex !important;
         -ms-flex-preferred-size: auto;
         flex-basis: auto;
-        margin-top: 80px;
+        margin-top: 15px;
     }
 
     .navbar-expand-lg .navbar-toggler {
