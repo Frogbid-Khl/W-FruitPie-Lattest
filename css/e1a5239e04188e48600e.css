@@ -969,6 +969,7 @@ img, video {
 .rotate-45, .translate-y-1\/2 {
     transform: var(--tw-transform);
     border: 2px solid black;
+    border-radius: 10px;
 }
 
 .rotate-45 {
@@ -2176,7 +2177,7 @@ input.center {
     }
 
     .md\:w-3\/4 {
-        width: 100%;
+        width: 80%;
         text-align: justify;
     }
 
@@ -2185,7 +2186,7 @@ input.center {
     }
 
     .md\:w-8\/12 {
-        width: 66.666667%;
+        width:90%;
         padding-left: 5px;
     }
 
@@ -2297,7 +2298,8 @@ input.center {
     }
 
     .md\:justify-end {
-        justify-content: flex-end
+        justify-content: flex-end;
+        margin-right: 20px;
     }
 
     .md\:justify-between {
@@ -3008,6 +3010,9 @@ input.center {
     #roadmap{
         padding-left: 10px;
         padding-right: 10px;
+    }
+    #benifits{
+        margin-top: 20px !important;
     }
 }
 
